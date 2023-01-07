@@ -1,0 +1,13 @@
+{
+  "name": "walrus",
+  "description": "I am the eggman",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "web-worker": "^1.2.0",
+    "ws": "^8.11.0"
+  }
+}
